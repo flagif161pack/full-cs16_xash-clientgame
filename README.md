@@ -45,9 +45,9 @@ Default Steam Configs
 6. Credits & Licensing
 Xash3D FWGS – Developed by the FWGS team under GPLv3.
 
-CS 1.6 for Xash – Port by Velaron, redistributed with permission.
+CS 1.6 client for Xash – Port by Velaron, redistributed with permission.
 
 Metamod – Open-source plugin framework for Half-Life mods under GPLv2.
 
-This Pack – Compiled and maintained by [xiao_guanghui], containing only community-approved, virus-free files.
+This Pack cs1.6 – Compiled and maintained by [xiao_guanghui], containing only community-approved, virus-free files.
 
