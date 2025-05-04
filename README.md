@@ -43,11 +43,15 @@ Default Steam Configs
 – All settings remain at their Steam defaults, preserving the authentic CS 1.6 feel with no pre-tweaks.
 
 6. Credits & Licensing
+
 Xash3D FWGS – Developed by the FWGS team under GPLv3.
 https://github.com/FWGS/xash3d-fwgs
+
 CS 1.6 client for Xash – Port by Velaron, redistributed with permission.
 https://github.com/Velaron
+
 Metamod – Open-source plugin framework for Half-Life mods under GPLv2.
 http://metamod.org/
+
 This Pack cs1.6 – Compiled and maintained by [xiao_guanghui], containing only community-approved, virus-free files.
 
