@@ -1,4 +1,5 @@
-# full cs16 xash3d + clientgame
+# full cs16 xash3d + clientgame![Uploading cstrike.jpg…]()
+
 1. Overview
 This Counter-Strike 1.6 pack is ported to the Xash3D FWGS engine — a modern, open-source engine optimized for performance and stability. It’s perfect for anyone seeking a lighter, cleaner, and more customizable CS 1.6 experience.
 
